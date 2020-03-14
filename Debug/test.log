@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\Users\mitay\source\repos\test\test.cpp(187,23): warning C4018: <: несоответствие типов со знаком и без знака
+  test.vcxproj -> C:\Users\mitay\source\repos\test\Debug\test.exe
